@@ -66,6 +66,3 @@ Tailwind utilities make it easy to change colors, spacing, shadows, etc.
 ##Build for Production
 
 npm run build
-
-📸 Preview
-![App Screenshot](./app_screenshot.png)
